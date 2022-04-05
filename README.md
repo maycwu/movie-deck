@@ -12,7 +12,7 @@ App that allows you to search for any movies and add them to your watch/watched 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### App Snippets
+### Movie List Snippets and Overview 
 
 Adding a movie to your watch list, removing movies off your watch list
 ## ![Watch the video](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/6bbe50b1-777f-4bbd-a62c-cc60b4e8b9c4.gif?ClientID=vimeo-core-prod&Date=1649128448&Signature=95bec1e32713112f855c2ef52e44e57851a225f4)
