@@ -1,5 +1,5 @@
 # Movie List App
-App that allows you to search for any movies and add them to your watch/watched list. 
+App that allow users to search for any movies and add them to their watch/watched list. 
 
 ## Tech Stack
 * Javascript
