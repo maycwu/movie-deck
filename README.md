@@ -7,6 +7,7 @@
 * React, Hooks, Context API
 * HTML
 * CSS
+* Deployed via Heroku
 
 ## Snippets
 
