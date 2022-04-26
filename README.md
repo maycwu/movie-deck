@@ -1,4 +1,4 @@
-# Movie List App
+# Movie Deck App
 - App that allow users to search for any movies and add them to their watch/watched list. 
 - Deployed site: https://moviedeck.herokuapp.com/
 
